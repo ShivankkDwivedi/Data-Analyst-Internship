@@ -1,0 +1,13 @@
+
+Hello Everyone ! ✅
+Second project task for the week was to prepare Reviews and Order 2016-2020 Dataset using Graph Charts- Power BI
+(NOTE- The dataset was given by Yoshops)
+
+* Firstly we cleaned the data - removed empty spaces, Renamed columns, Replaced few values, split the column, changed the data type.
+
+* Further we visualize the data using charts like Bar chart and pie chart, to make it more authentic and impressive, i used the button feature which help us to navigate through different sheets, Image and link of official Yoshops.com website.
+
+* Lastly, I filtered the data during visualization. Example- Top N filter, sum, count. less than greater than values and more. Also learnt how to extract hours, days, even used DAX to get orders placed across a day like Orders placed in morning, evening and so on.
+
+-- What i learnt --
+How to use text box, navigations, images to make the visualization part more presentable, uses of filter panel, split columns, DAX.
