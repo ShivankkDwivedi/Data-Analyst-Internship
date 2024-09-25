@@ -1,2 +1,2 @@
-# Data-Analyst-Internship
-As a Data Analyst Intern in YoSHOPS, i will share my project tasks here. This is a great challenge for me to enhance my skill in Python and Power BI
+# Internship At Yoshops
+As a Data Analyst Intern at Yoshops, an online platform selling a variety of products, I was tasked with analyzing eight different datasets and creating dashboards for each within Power BI.
