@@ -1,9 +1,0 @@
-
-TASK 1
-Hello Everyone ! ✅
-Our First project task for the week was to prepare Yoshops Survey and Order excel charts like Pie Chart and Bar Chart using POWER BI. 
-The dataset was given by Yoshops.
-
-* Firstly I imported and Cleaned the data - removed empty spaces, Renamed columns, Replace many values as it contains numerous amount of unnecessary values, changed the data type and few more things.
-* Further we visualize the data using charts like Bar chart and pie chart, to make it more authentic and impressive, i used the button feature which help us to navigate through different sheets, Image and link of official Yoshops.com website.
-* Lastly, i acquire knowledge of filtering the data, when we are in the visualization process. Example- Top N filter, sum, count. less than greater than values and more.
